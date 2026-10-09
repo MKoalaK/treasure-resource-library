@@ -1,0 +1,4 @@
+interface:
+  display_name: "宝藏资源库"
+  short_description: "检索网站与应用资料，核验链接并保存多媒体，持续维护本地 Markdown 宝藏资源库"
+  default_prompt: "请使用 $treasure-resource-library 整理我提供的网站或应用，先确认本次存储路径，再更新宝藏资源库。"
