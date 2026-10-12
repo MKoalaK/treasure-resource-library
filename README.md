@@ -1,4 +1,4 @@
-# Treasure Resource Library
+# Treasure Resource Library——宝藏资源库
 
 [English](#english) · [中文介绍](#中文介绍)
 
